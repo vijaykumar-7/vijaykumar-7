@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **vijaykumar890528@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
+<h4>https://www.linkedin.com/in/vijay-kumar-50962a231/</h4>
 <p align="left">
 <a href="https://linkedin.com/in/vijay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay kumar" height="30" width="40" /></a>
 </p>
