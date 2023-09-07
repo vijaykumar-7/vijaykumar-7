@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js, API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FSDVK](https://github.com/FSDVK)
+- 👨‍💻 All of my projects are available at [https://github.com/vijaykumar-7 ](https://github.com/vijaykumar-7 )
 
 - 💬 Certification - <a href="https://certificate.givemycertificate.com/c/322ddf0d-4584-49c7-9832-33e1bd94bc7d" target="blank">Full Stack Development</a>
 
